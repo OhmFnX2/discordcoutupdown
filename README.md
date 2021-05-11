@@ -1,4 +1,4 @@
-# Testbot01
+# discordcoutupdown
 How to use
 
 1.in Termianl
