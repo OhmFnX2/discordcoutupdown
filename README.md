@@ -12,7 +12,7 @@ and change in file: discord.js
 
 install ez
 ```
-git clone
+git clone https://github.com/OhmFnX2/discordcoutupdown.git
 ```
 
 <img alt="example" src="./img/Screenshot (1131)_LI.jpg"/>
